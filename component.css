@@ -1,0 +1,14 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-text {
+  font-size: 20px;
+  align-self: center;
+}
+.component-text1 {
+  text-transform: uppercase;
+}
+.rootClassName {
+  align-self: center;
+}
